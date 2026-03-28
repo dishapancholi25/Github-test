@@ -15,3 +15,4 @@ public class code3 {
         System.out.println("Factorial = " + fact);
     }
 }
+#sthis is code3java code
